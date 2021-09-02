@@ -1,4 +1,6 @@
 html, body {
+    background: url('img/Design\ sem\ nome\ \(2\).png') no-repeat center center fixed;     
+    background-size: cover;
     margin: 0;
 }
 
@@ -247,8 +249,54 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1010px) {
     #menu , #novameca , .imagem, .coluna, .destaque, #sobre, #selecao {
+      display: none;
+
+
+    }
+}
+
+@media screen and (max-width: 900px) {
+    #textomidiatico {
+      text-align: left;
+      display: block;
+
+
+    }
+}
+
+@media screen and (max-width: 708px) {
+    #imagem_fundo, {
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-position: center;
+
+
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #imagem_fundo, {
+      align-items: center;
+      align: .center;
+
+    }
+}
+
+@media screen and (max-width: 1010px) {
+    #titulo{
+     font-size: 150% ;
+      padding-top: 50%;
+
+
+    }
+}
+
+@media screen and (max-width: 1010px) {
+    #subtitulo{
       display: none;
 
 
@@ -406,4 +454,5 @@ width: 40%;
 
 
 }
+
 
