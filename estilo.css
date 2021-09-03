@@ -280,8 +280,9 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 @media screen and (max-width: 550px) {
     #imagem_fundo, {
+        widht: 100%
       align-items: center;
-      align: .center;
+      
 
     }
 }
