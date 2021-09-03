@@ -314,6 +314,16 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     }
 }
 
+@media screen and (max-width: 900px) {
+    # {
+     padding-left: 0px
+      display: block;
+
+
+    }
+}
+
+
 .corgo {
 background-color: rgb(248, 210, 43);
 
