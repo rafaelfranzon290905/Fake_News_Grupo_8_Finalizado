@@ -128,7 +128,9 @@ position relative;
 
 }
 
+.embora {
 
+}
 
 
 .icone {
@@ -250,7 +252,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
 
 @media screen and (max-width: 900px) {
-    #menu , #novameca , .imagem, #selecao, #imagem_fundo, .corgo {
+    #menu , #novameca , .imagem, #selecao, #imagem_fundo, .corgo, .embora, .avocados {
       display: none;
 
 
@@ -476,4 +478,4 @@ width: 40%;
 }
 
 
-por favor Deus da programação faz isso funcionar
+
