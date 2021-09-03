@@ -56,6 +56,11 @@ background-color: #6dafc7
     background-size: cover;
 }
 
+.weeb {
+
+
+
+}
 
 #titulo {
     color: rgb(160, 14, 14);
@@ -252,7 +257,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
 
 @media screen and (max-width: 900px) {
-    #menu , #novameca , .imagem, #selecao, #imagem_fundo, .corgo, .embora, .avocados, #Podcast, #creditos, .slider, .coluna, .dois, .ave {
+    #menu , #novameca , .imagem, #selecao, #imagem_fundo, .corgo, .embora, .avocados, #Podcast, #creditos, .weeb, .ave {
       display: none;
 
 
