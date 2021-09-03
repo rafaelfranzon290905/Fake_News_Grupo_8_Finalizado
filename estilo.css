@@ -249,8 +249,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
 }
 
-@media screen and (max-width: 1010px) {
-    #menu , #novameca , .imagem, #selecao, #imagem_fundo {
+@media screen and (max-width: 900px) {
+    #menu , #novameca , .imagem, #selecao, #imagem_fundo, .corgo {
       display: none;
 
 
