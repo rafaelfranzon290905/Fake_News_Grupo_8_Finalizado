@@ -252,7 +252,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
 
 @media screen and (max-width: 900px) {
-    #menu , #novameca , .imagem, #selecao, #imagem_fundo, .corgo, .embora, .avocados {
+    #menu , #novameca , .imagem, #selecao, #imagem_fundo, .corgo, .embora, .avocados, #Podcast {
       display: none;
 
 
@@ -267,6 +267,13 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 
     }
 }
+
+@media screen and (max-width: 900px) {
+    #creditos {
+    width: 100%;
+    }
+}
+        
 
 @media screen and (max-width: 708px) {
     #imagem_fundo, {
